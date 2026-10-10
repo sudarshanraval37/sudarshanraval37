@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Pursuing Computer Science & Engineering <br>Web Developer <br>Freelance Video Editor
 
 
